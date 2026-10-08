@@ -3,9 +3,16 @@
 A production-ready **Learning Dashboard** iOS Application engineered with **Swift 5.10 / Swift 6**, **SwiftUI**, **Clean Architecture + Repository Pattern**, and **SwiftData** for offline local database persistence.
 
 ---
-<img src="MeetMind/Screenshots/Login.png" width="250">
-<img src="MeetMind/Screenshots/Course_List.png" width="250">
-<img src="MeetMind/Screenshots/Course_Detail.png" width="250">
+## Application Screenshots
+
+<p>
+  <img src="MeetMind/Screenshots/Login.png" width="250" hspace="10">
+  <img src="MeetMind/Screenshots/Course_List.png" width="250" hspace="10">
+  <img src="MeetMind/Screenshots/Course_Detail.png" width="250" hspace="10">
+</p>
+
+## Application flow
+
 <img src="MeetMind/Screenshots/App_Recording.gif" width="250">
 
 ## Technical Assignment Q&A
